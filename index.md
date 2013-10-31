@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: The Ideanator
+tagline: List of ideas that I will forget if not recorded
 ---
 {% include JB/setup %}
 
